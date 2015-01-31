@@ -1,0 +1,334 @@
+[
+  {
+    "name": "DESROCHERS",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/=GENERAL & LG",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PA 507/607: HI EDUC POLICY SEM",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 533 PUBLIC POLICY",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 582 PUBLIC BUDGETING",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 583 ADVANCED BUDGETING",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PAP",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "HIGHER EDUC REFORM",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "CITY/UNIV RELATIONSHIPS",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "UNIV ENGAGEMENT W/ KESCKES",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "UNIV OF CALIF, MERCED DEVEL",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "OHSU COLL SCIENCES BLDG",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OREGON STATE HI ED COOR COM",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CITY OF PORTLAND, BUDGET OFFICER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "FORMER MAYOR'S ECON DEVEL COUN",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "TRIMET/STREECAR/URBAN RENEWAL",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "DEAN'S COM ON ACAD/ORG, CHAIR",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "SUCCESSION PLANNING, PA, CHAIR",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "UG PUB SERVICE DEGREE, W/ KESCKES",
+            "size": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PLACEHOLDER",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/=GLOBAL LEADER",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          },
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PLACEHOLDER",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/=GLOBAL LEADER",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          },
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  }
+]
