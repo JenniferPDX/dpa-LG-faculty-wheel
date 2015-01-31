@@ -1,5 +1,106 @@
 [
   {
+    "name": "COOPER",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/=GLOBAL LEADER",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &=TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          },
+          {
+            "colour": "#fdbe85",
+            "name": "PLACEHOLDER",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "DESROCHERS",
     "children": [
       {
@@ -130,7 +231,7 @@
     ]
   },
   {
-    "name": "PLACEHOLDER",
+    "name": "MORGAN",
     "children": [
       {
         "colour": "#36483b",
@@ -231,20 +332,70 @@
     ]
   },
   {
-    "name": "PLACEHOLDER",
+    "name": "NISHISHIBA",
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/=GLOBAL LEADER",
+        "name": "TEACHING/=GENERAL, LG & GL",
         "children": [
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "NON PROFIT MANAGEMENT CERT",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "METHODS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "INTERCULTURAL COMMUNICATION",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: ADVANCED CASE ANALYSIS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: INTERNATIONAL FIELD EXP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 519: CIVIC CAPACITY",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 549: CROSSCULT COMM/PUBL",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 551: ANALYTIC METHODS PA I",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 552: ANALYTIC METHODS PA II",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "WORLD LANGUAGES: JAPANESE",
             "size": 5
           }
         ]
@@ -255,12 +406,22 @@
         "children": [
           {
             "colour": "#667A66",
-            "name": "PLACEHOLDER",
+            "name": "EMPA",
             "size": 5
           },
           {
             "colour": "#667A66",
-            "name": "PLACEHOLDER",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PAP, STUDENT COMS",
             "size": 5
           }
         ]
@@ -271,12 +432,52 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
+            "name": "DIVERSITY",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
+            "name": "LOCAL GOVERNMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "CIVIC ENGAGEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "RSRCH MTHDS, STATS FOR PUB, NP ADMINS",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "LOCAL GOVERNMENT DIVERSITY INITS IN OR",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "CAPACITY BUILDING FOR COMMON GOOD",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "EDUCATING FOR NEW PUBLIC GOVERNANCE",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "DO LOCAL GOVERNMENTS MATTER?",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "LOOKNG BACK ON FOUNDNG: CIVIC ENG TRADS",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "INSTNLZNG DIVERSTY, INTRNTNLZTN INIT AT PSU",
             "size": 5
           }
         ]
@@ -287,12 +488,47 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "PLACEHOLDER",
+            "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
-            "name": "PLACEHOLDER",
+            "name": "SEOUL METRO GOVT PROG",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OR BD MASSAGE THERAPISTS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PORTLAND POLICE BUREAU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CLACKAMAS COUNTY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CITY OF BEAVERTON",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OR DEPT ADMIN SERVS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "TUALATIN HILLS PARK & REC",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "JAPAN AMERICAN SOC OF OR",
             "size": 5
           }
         ]
@@ -303,12 +539,27 @@
         "children": [
           {
             "colour": "#fd8d3c",
-            "name": "PLACEHOLDER",
+            "name": "ASPA INTER GOVTL ADMIN/MGMT, BD",
             "size": 5
           },
           {
             "colour": "#fd8d3c",
-            "name": "PLACEHOLDER",
+            "name": "DIVERSITY COMMITTEE, PA, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "DIVERSITY ACTION COUNCIL, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "TOKYO FOUNDATION, ADVISORY COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "CENTER FOR JAPANESE STUDIES, PSU",
             "size": 5
           }
         ]
@@ -319,13 +570,239 @@
         "children": [
           {
             "colour": "#fdbe85",
-            "name": "PLACEHOLDER",
+            "name": "CENTER FOR PUBLIC SERVICE, ASSOC DIR",
             "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SHINN",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/-GEN & NAT RES",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "PAP (Teach/core exams/theses)",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "EMPA",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "ENERGY CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MGT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 511: PUBLIC ADMINISTRATION",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 518: LEADING PUBLIC ORGS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 533: PUB POLICY ORIG, PROC",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA/EMPA 539: NAT'L POLICY PROC",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 564: ISS ENVR POL & ADMIN",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 565: NATL RESRC POL/ADMIN",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 569: FISH & WILDLIFE/POL/ADMIN",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 570: ENVIRONMENTAL LEADERSHP",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "EMPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PHD:PAP",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PHD: Health Policy",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "PUBLIC SERVICE NEW GOVERNANCE",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "FOUNDS OF PUBLIC SERVICE",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "NR: FORESTRY, COLUMBIA GORGE",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "LOCAL GOVERNMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "INTERTRIBAL GOVERNANCE",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/-PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "US ARMY CORPS OF ENGINEERS.",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "US FOREST SERVICE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OREGON DEPT FORESTRY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OREGON STATE ENV'L GROUP",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INTER TRIBAL GOVERT",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "COLUMBIA RIVER GORGE COM",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "ENR EXEC SEMINAR",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INST FOR SUSTAIN SOLUT., PSU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "NAT POLICY CONS CENTER, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CENTER FOR PUB SER (HATFIELD)",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &-TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "DEAN'S FUTURES COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PAP COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "FACULTY REVIEW COMS",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "EMPA",
+            "size": 5
           },
           {
             "colour": "#fdbe85",
-            "name": "PLACEHOLDER",
-            "size": 50
+            "name": "MPP, INTERIM DIR",
+            "size": 5
+          },
+          {
+            "colour": "#fdbe85",
+            "name": "PA 512 FIELDWORK",
+            "size": 5
+          },
+          {
+            "colour": "#fdbe85",
+            "name": "CPS FAC GROUP",
+            "size": 5
           }
         ]
       }
