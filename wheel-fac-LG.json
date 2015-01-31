@@ -4,16 +4,46 @@
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/=GLOBAL LEADER",
+        "name": "TEACHING",
         "children": [
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "PA 533: PUBLIC POL:ORIG/PROC",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "PA 534: ADMINISTRATIVE LAW",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 542: SUSTAINABLE DVLP IMPLMNTN",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 556: PUBLIC CONTRACT MANAGEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 560: LOCAL GOVERNMENT ADMINISTRATIO",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 561: INTERGOVERNMENTAL RELATIONS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 593: CIVIL RIGHTS FOR PUBLIC MGRS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PAP 612: GOVERN/PA/RULE LAW",
             "size": 5
           }
         ]
@@ -105,7 +135,7 @@
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/=GENERAL & LG",
+        "name": "TEACHING",
         "children": [
           {
             "colour": "#36483b",
@@ -235,16 +265,21 @@
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/=GLOBAL LEADER",
+        "name": "TEACHING",
         "children": [
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "PA 510: ADVANCED CASE ANALYSIS",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PLACEHOLDER",
+            "name": "PA 513: ADMIN ETHICS & VALUES",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 518: LEADING PUBLIC ORGANIZATIONS",
             "size": 5
           }
         ]
