@@ -8,6 +8,26 @@
         "children": [
           {
             "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "LOCAL GOVERNANCE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "INTERGOVERNMENTAL RELATIONS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "ADMININSTRATIVE LAW",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
             "name": "PA 533: PUBLIC POL:ORIG/PROC",
             "size": 5
           },
@@ -70,7 +90,7 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
+            "name": "CPS (HATFIELD)",
             "size": 5
           },
           {
@@ -137,6 +157,21 @@
         "colour": "#36483b",
         "name": "TEACHING",
         "children": [
+          {
+            "colour": "#36483b",
+            "name": "BUDGET, PUBLIC POLICY",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PAP (Teach/exams/theses)",
+            "size": 5
+          },
           {
             "colour": "#36483b",
             "name": "PA 507/607: HI EDUC POLICY SEM",
@@ -269,6 +304,21 @@
         "children": [
           {
             "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NEW GOVERNANCE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PUBLIC SERVICE FOUNDATIONS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
             "name": "PA 510: ADVANCED CASE ANALYSIS",
             "size": 5
           },
@@ -306,7 +356,7 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
+            "name": "CPS (HATFIELD)",
             "size": 5
           },
           {
@@ -322,7 +372,7 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "PLACEHOLDER",
+            "name": "CPS (CORE FACULTY)",
             "size": 5
           },
           {
@@ -385,7 +435,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "INTERCULTURAL COMMUNICATION",
+            "name": "DIVERSITY/INTERCULTURAL COM",
             "size": 5
           },
           {
@@ -467,52 +517,37 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "DIVERSITY",
+            "name": "CPS (HATFIELD)",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT",
+            "name": "CAPACITY BLDG FOR COMMON GOOD",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "CIVIC ENGAGEMENT",
+            "name": "NEW PUB GOVERNANCE, CIVIC CAP",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "RSRCH MTHDS, STATS FOR PUB, NP ADMINS",
+            "name": "LOCAL GOVERNMENT, CRIME RATE",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT DIVERSITY INITS IN OR",
+            "name": "TRADITIONS OF CIVIC ENGAGE,US",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "CAPACITY BUILDING FOR COMMON GOOD",
+            "name": "INTERNATIONALIZATION AT PSU",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "EDUCATING FOR NEW PUBLIC GOVERNANCE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "DO LOCAL GOVERNMENTS MATTER?",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "LOOKNG BACK ON FOUNDNG: CIVIC ENG TRADS",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INSTNLZNG DIVERSTY, INTRNTNLZTN INIT AT PSU",
+            "name": "COMMISSION FORM OF GOVERNMENT",
             "size": 5
           }
         ]
@@ -521,6 +556,11 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "CPS (CORE FACULTY)",
+            "size": 5
+          },
           {
             "colour": "#ae4a1c",
             "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG",
@@ -617,11 +657,11 @@
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/-GEN & NAT RES",
+        "name": "TEACHING/=GEN & NAT RES",
         "children": [
           {
             "colour": "#36483b",
-            "name": "PAP (Teach/core exams/theses)",
+            "name": "PAP (Teach/exams/theses)",
             "size": 5
           },
           {
@@ -697,12 +737,12 @@
           },
           {
             "colour": "#667A66",
-            "name": "PHD:PAP",
+            "name": "PAP",
             "size": 5
           },
           {
             "colour": "#667A66",
-            "name": "PHD: Health Policy",
+            "name": "PHD: HEALTH POLICY",
             "size": 5
           }
         ]
@@ -711,6 +751,11 @@
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "CPS (HATFIELD)",
+            "size": 5
+          },
           {
             "colour": "#C0CCC0",
             "name": "PUBLIC SERVICE NEW GOVERNANCE",
@@ -740,11 +785,16 @@
       },
       {
         "colour": "#ae4a1c",
-        "name": "COLLABORATIONS/-PARTNERS",
+        "name": "COLLABORATIONS/=PARTNERS",
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "US ARMY CORPS OF ENGINEERS.",
+            "name": "CENTER FOR PUB SER (CORE FACULTY)",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "US ARMY CORPS OF ENGINEERS",
             "size": 5
           },
           {
@@ -786,17 +836,12 @@
             "colour": "#ae4a1c",
             "name": "NAT POLICY CONS CENTER, PSU",
             "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CENTER FOR PUB SER (HATFIELD)",
-            "size": 5
           }
         ]
       },
       {
         "colour": "#fd8d3c",
-        "name": "INTERNAL COMS &-TASK FORCES",
+        "name": "INTERNAL COMS &=TASK FORCES",
         "children": [
           {
             "colour": "#fd8d3c",
@@ -832,11 +877,6 @@
           {
             "colour": "#fdbe85",
             "name": "PA 512 FIELDWORK",
-            "size": 5
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "CPS FAC GROUP",
             "size": 5
           }
         ]
