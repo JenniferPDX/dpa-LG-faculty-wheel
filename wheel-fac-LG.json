@@ -522,6 +522,11 @@
           },
           {
             "colour": "#C0CCC0",
+            "name": "EQUITY, DIVERSITY, INCLUSION",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
             "name": "CAPACITY BLDG FOR COMMON GOOD",
             "size": 5
           },
