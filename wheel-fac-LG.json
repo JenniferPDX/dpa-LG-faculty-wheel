@@ -8,6 +8,11 @@
         "children": [
           {
             "colour": "#36483b",
+            "name": "PAP (Teach/exams/theses)",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
             "name": "NON PROFIT MANAGEMENT CERT",
             "size": 5
           },
@@ -74,12 +79,12 @@
         "children": [
           {
             "colour": "#667A66",
-            "name": "PLACEHOLDER",
+            "name": "MPA",
             "size": 5
           },
           {
             "colour": "#667A66",
-            "name": "PLACEHOLDER",
+            "name": "PAP",
             "size": 5
           }
         ]
@@ -106,12 +111,12 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "PLACEHOLDER",
+            "name": "LOCAL GOVT ADVISORY COM",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
-            "name": "PLACEHOLDER",
+            "name": "OR INT'L CITY/CTY MGT ASSOC",
             "size": 5
           }
         ]
@@ -122,12 +127,37 @@
         "children": [
           {
             "colour": "#fd8d3c",
-            "name": "PLACEHOLDER",
+            "name": "DIVERSITY COM",
             "size": 5
           },
           {
             "colour": "#fd8d3c",
-            "name": "PLACEHOLDER",
+            "name": "CPS REVIEW",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "MPA/HEATH CHAIR",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "ADMISSION COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "MARKETING COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "P&T COMS, CHAIR, MEMBER",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "DEAN'S STRAT PLAN COUNCIL",
             "size": 5
           }
         ]
