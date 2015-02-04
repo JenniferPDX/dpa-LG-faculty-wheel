@@ -111,6 +111,11 @@
         "children": [
           {
             "colour": "#ae4a1c",
+            "name": "NATIONAL ACADEMY OF PA, FELLOW",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
             "name": "LOCAL GOVT ADVISORY COM",
             "size": 5
           },
@@ -439,12 +444,7 @@
         "children": [
           {
             "colour": "#fdbe85",
-            "name": "CHAIR, MPA DIVISION",
-            "size": 50
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "PLACEHOLDER",
+            "name": "MPA DIVISION, CHAIR",
             "size": 50
           }
         ]
