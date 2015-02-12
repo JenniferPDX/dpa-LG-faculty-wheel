@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>DPA, Global Leadership Faculty Activities</title>
-<meta name="description" content="A visualisation of PSU, Department of Public Admin.">
-<link rel="stylesheet" type="text/css" href="mystyle.css">
-<style> text { font-weight: bold; } </style>
+
+    <meta charset="utf-8">
+        <title>DPA, LG Faculty Activities</title>
+        <meta name="description" content="A visualisation of PSU, Department of Public Admin.">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+
+    <!-- Styling overrides -->
+    <style> text { font-weight: bold; } </style>
+
 </head>
 
 <body>
-<h2>LOCAL GOVERNMENT FACULTY ACTIVITIES</h2>
-<h2>(Average External Funding $???)</h2>
-<p>Includes courses taught/scheduled from Winter 2012 through Winter 2015<p>
 
-<div id="vis"><img src="full.png"></div>
-<script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="wheel.js"></script>
 
-<script type="text/javascript" src="wheel.js"></script>
-<script> executeWheel("wheel-fac-LG.json", "=", 1040, 2.6); </script>
+    <h2>LOCAL GOVERNMENT FACULTY ACTIVITIES</h2>
+    <h2>(Average External Funding $???)</h2>
+    <p>Includes courses taught/scheduled from Winter 2012 through Winter 2015<p>
 
-<p align="center">Click on a label to zoom to that level. <br>Click the center to zoom back one level</p>
+    <div id="vis"><img src="full.png"></div> <!-- used in executeWheel -->
+    <script> executeWheel("wheel-fac-LG.json", "=", 1040, 2.6); </script>
 
-<script>
-  if (top != self) top.location.replace(location);
-</script>
+    <p>Click on a label to zoom to that level. <br>Click the center to zoom back one level.</p>
+
 </body>
 </html>
