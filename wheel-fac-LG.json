@@ -25,8 +25,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
         ]
       },
       {
@@ -41,7 +40,7 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          { "colour": "#ae4a1c", "name": "NATIONAL ACADEMY OF PA, FELLOW", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NAT'L ACA OF PUB ADMIN, FELLOW", "size": 5 },
           { "colour": "#ae4a1c", "name": "LOCAL GOVT ADVISORY COM", "size": 5 },
           { "colour": "#ae4a1c", "name": "OR INT'L CITY/CTY MGT ASSOC", "size": 5 }
         ]
@@ -51,7 +50,7 @@
         "name": "COMS &=TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DIVERSITY COM", "size": 5 },
-          { "colour": "#fd8d3c", "name": "CPS REVIEW", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CPS REVIEW COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "MPA/HEATH CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "ADMISSION COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "MARKETING COM", "size": 5 },
@@ -63,8 +62,7 @@
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          { "colour": "#fdbe85", "name": "PLACEHOLDER", "size": 5 },
-          { "colour": "#fdbe85", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#fdbe85", "name": "LOCAL GOVERNMENT, FACULTY LEAD", "size": 5 }
         ]
       }
     ]
@@ -108,6 +106,7 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
+          { "colour": "#ae4a1c", "name": "OHSU CAMPUS DEVEL", "size": 5 },
           { "colour": "#ae4a1c", "name": "OHSU COLL SCIENCES BLDG", "size": 5 },
           { "colour": "#ae4a1c", "name": "OREGON STATE HI ED COOR COM", "size": 5 },
           { "colour": "#ae4a1c", "name": "CITY OF PORTLAND, BUDGET OFFICER", "size": 5 },
@@ -146,32 +145,14 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "PLACEHOLDER", "size": 5 },
-          { "colour": "#667A66", "name": "PLACEHOLDER", "size": 5 }
-        ]
-      },
-      {
-        "colour": "#C0CCC0",
-        "name": "RESEARCH/SCHOL.",
-        "children": [
-          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
-          { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#667A66", "name": "EMPA", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 },
-          { "colour": "#ae4a1c", "name": "PLACEHOLDER", "size": 5 }
-        ]
-      },
-      {
-        "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
-        "children": [
-          { "colour": "#fd8d3c", "name": "PLACEHOLDER", "size": 5 },
-          { "colour": "#fd8d3c", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 }
         ]
       },
       {
@@ -191,8 +172,6 @@
         "name": "TEACHING/=GENERAL, LG & GL",
         "children": [
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#36483b", "name": "METHODS", "size": 5 },
-          { "colour": "#36483b", "name": "DIVERSITY/INTERCULTURAL COM", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: ADVANCED CASE ANALYSIS", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
@@ -209,10 +188,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "EMPA", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
         ]
       },
       {
@@ -220,6 +197,7 @@
         "name": "RESEARCH/SCHOL.",
         "children": [
           { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "METHODS", "size": 5 },
           { "colour": "#C0CCC0", "name": "EQUITY, DIVERSITY, INCLUSION", "size": 5 },
           { "colour": "#C0CCC0", "name": "CAPACITY BLDG FOR COMMON GOOD", "size": 5 },
           { "colour": "#C0CCC0", "name": "NEW PUB GOVERNANCE, CIVIC CAP", "size": 5 },
@@ -234,7 +212,7 @@
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
           { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 },
-          { "colour": "#ae4a1c", "name": "TOKYO FND JPN LOC GOV MGMT TRAIN PRG", "size": 5 },
+          { "colour": "#ae4a1c", "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG", "size": 5 },
           { "colour": "#ae4a1c", "name": "SEOUL METRO GOVT PROG", "size": 5 },
           { "colour": "#ae4a1c", "name": "OR BD MASSAGE THERAPISTS", "size": 5 },
           { "colour": "#ae4a1c", "name": "PORTLAND POLICE BUREAU", "size": 5 },
@@ -283,16 +261,17 @@
           { "colour": "#36483b", "name": "PA 564: ISS ENVR POL & ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 565: NATL RESRC POL/ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 569: FISH & WILDLIFE/POL/ADMIN", "size": 5 },
-          { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 }
+          { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 610: NEW PUBLC GOVRNCE", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 610: CITATION ANALYSIS", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 694: SOCIAL PRACTICES & ECOSYS", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "EMPA", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
           { "colour": "#667A66", "name": "PHD: HEALTH POLICY", "size": 5 }
         ]
       },
