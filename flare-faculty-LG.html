@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+        <title>DPA, LG Faculty Activities</title>
+        <meta name="description" content="A visualisation of PSU, Department of Public Admin.">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <script type="text/javascript" src="d3/d3.layout.js"></script>
+
+    <!-- Styling overrides -->
+    <style type="text/css">
+        body { position: absolute; }
+        #altView { /* for button to alternate between wheel and flare views of material */
+            top: 150px;
+        }
+    </style>
+    
+</head>
+  
+<body>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="flare.js"></script>
+
+    <!-- TODO: Move all this HTML stuff into executeFlare, as it will be the same across all datasets -->
+    <!-- Update one or the other js function (executeWheel())so that they can read the same JSON file -->
+    <form>
+    <fieldset>
+        <legend>Select a category:</legend>
+          <label><input type="radio" name="mode" value="Teaching" checked autofocus> Teaching<br></label>
+          <label><input type="radio" name="mode" value="Advising"> Student Advising<br></label>
+          <label><input type="radio" name="mode" value="Research"> Research/Schol.<br></label>
+          <label><input type="radio" name="mode" value="Partners"> Collaborations/Partners<br></label>
+          <label><input type="radio" name="mode" value="Committees"> Coms & Task Forces<br></label>
+          <label><input type="radio" name="mode" value="Administers"> Administers</label>
+    </fieldset>
+    </form>
+
+    <form method="link" action="wheel-faculty-LG.html">
+        <input type="submit" id="altView" value="Wheel View">
+    </form>
+
+    <h2>LOCAL GOVERNMENT FACULTY ACTIVITIES</h2>
+    <h2>(Average External Funding $$$)</h2>
+    <p>Includes courses taught/scheduled from Winter 2012 through Winter 2015</p>
+    
+    <div id="body">
+      <div id="footer">
+        <div id="hint">Click to expand or collapse a node</div>
+      </div>
+    </div>
+    
+    <script> executeFlare("wheel-fac-LG.json"); </script>
+
+    </body>
+</html>

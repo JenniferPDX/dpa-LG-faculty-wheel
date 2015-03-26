@@ -1,4 +1,6 @@
-[
+{
+      "name": "Local Government",
+      "children": [
   {
     "name": "COOPER",
     "children": [
@@ -87,8 +89,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
           { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
         ]
       },
@@ -122,6 +123,13 @@
           { "colour": "#fd8d3c", "name": "SUCCESSION PLANNING, PA, CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "UG PUB SERVICE DEGREE", "size": 5 }
         ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "", "size": 5 }
+        ]
       }
     ]
   },
@@ -149,10 +157,24 @@
         ]
       },
       {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          { "colour": "#C0CCC0", "name": "", "size": 5 }
+        ]
+      },
+      {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
           { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+          { "colour": "#fd8d3c", "name": "", "size": 5 }
         ]
       },
       {
@@ -324,3 +346,4 @@
     ]
   }
 ]
+}
