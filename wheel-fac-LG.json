@@ -49,7 +49,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DIVERSITY COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "CPS REVIEW COM", "size": 5 },
@@ -117,7 +117,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DEAN'S COM ON ACAD/ORG, CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "SUCCESSION PLANNING, PA, CHAIR", "size": 5 },
@@ -172,7 +172,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "", "size": 5 }
         ]
@@ -247,7 +247,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "ASPA INTER GOVTL ADMIN/MGMT, BD", "size": 5 },
           { "colour": "#fd8d3c", "name": "DIVERSITY COMMITTEE, PA, PSU", "size": 5 },
@@ -327,7 +327,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DEAN'S FUTURES COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "PAP COM", "size": 5 },
