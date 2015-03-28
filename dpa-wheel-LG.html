@@ -1,32 +1,93 @@
 <!DOCTYPE html>
-<html>
-<head>
-
+<html lang="en">
+  <head>
     <meta charset="utf-8">
-        <title>DPA, LG Faculty Activities</title>
-        <meta name="description" content="A visualisation of PSU, Department of Public Admin.">
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>DPA, LG Faculty Activities</title>
+    <meta name="description" content="A visualisation of PSU, Department of Public Admin.">
 
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/mystyle.css">
     <!-- Styling overrides -->
     <style> 
+        body {
+          width: 1040px;
+        }
     </style>
 
-</head>
+    </head>
+  <body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">PSU Dept of Public Administration</a>
+    </div>
 
-<body>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Wheels <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="dpa-wheel-GL.html">Global Leadership</a></li>
+            <li><a href="dpa-wheel-HA.html">Health Administration</a></li>
+            <li><a href="dpa-wheel-HR.html">Human Resources</a></li>
+            <li><a href="dpa-wheel-LG.html">Local Government</a></li>
+            <li><a href="dpa-wheel-NR.html">Natural Resources</a></li>
+            <li><a href="dpa-wheel-NP.html">Non Profit</a></li>
+            <li class="divider"></li>
+            <li><a href="wheel-courses.html">Department Course Wheel</a></li>
+            <li><a href="wheel-program.html">Program / Specializations Wheel</a></li>
+            <li><a href="dpa-CUW-no-MPA.html">Student Course Utilization Wheel</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Trees <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="dpa-flare-GL.html">Global Leadership</a></li>
+            <li><a href="dpa-flare-HA.html">Health Administration</a></li>
+            <li><a href="dpa-flare-HR.html">Human Resources</a></li>
+            <li><a href="dpa-flare-LG.html">Local Government</a></li>
+            <li><a href="dpa-flare-NR.html">Natural Resources</a></li>
+            <li><a href="dpa-flare-NP.html">Non Profit</a></li>
+          </ul>
+        </li>
+      </ul>
+    <!-- <p class="navbar-text">Other text for the nav bar</p> -->
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script type="text/javascript" src="wheel.js"></script>
+    <script type="text/javascript" src="js/wheel.js"></script>
 
     <h2>LOCAL GOVERNMENT FACULTY ACTIVITIES</h2>
     <h2>(Average External Funding $$$)</h2>
     <p>Includes courses taught/scheduled from Winter 2012 through Winter 2015</p>
 
-    <form method="link" action="flare-faculty-LG.html">
-        <input type="submit" id="altView" value="Tree View">
-    </form>
+    <script> executeWheel("data/dpa-LG.json", "=", 1040, 2.3); </script>
 
-    <script> executeWheel("wheel-fac-LG.json", "=", 1040, 2.3); </script>
-
-</body>
+  </body>
 </html>
