@@ -20,6 +20,7 @@
           { "colour": "#36483b", "name": "PA 560: LOCAL GOVERNMENT ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 561: INTERGOVERNMENTAL RELATIONS", "size": 5 },
           { "colour": "#36483b", "name": "PA 593: CIVIL RIGHTS FOR PUBLIC MGRS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAP 612: GOVERN/PA/RULE LAW", "size": 5 }
         ]
       },
@@ -35,7 +36,11 @@
         "name": "RESEARCH/SCHOL.",
         "children": [
           { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
-          { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#C0CCC0", "name": "BY ORDER OF THE PRESIDENT, 2ND ED", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COLUMBIA GORGE COMMISS PROJECT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PUB LAW REINFORCE OF ADMIN RESP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CIVIL RIGHTS IN PUBLIC SERVICE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "POLICY TOOLS IN DESIGN PROCESS", "size": 5 }
         ]
       },
       {
@@ -153,7 +158,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "EMPA", "size": 5 }
+          { "colour": "#667A66", "name": "EMPA, PAP", "size": 5 }
         ]
       },
       {
@@ -203,6 +208,7 @@
           { "colour": "#36483b", "name": "PA 551: ANALYTIC METHODS PA I", "size": 5 },
           { "colour": "#36483b", "name": "PA 552: ANALYTIC METHODS PA II", "size": 5 },
           { "colour": "#36483b", "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "WORLD LANGUAGES: JAPANESE", "size": 5 }
         ]
       },
@@ -284,6 +290,8 @@
           { "colour": "#36483b", "name": "PA 565: NATL RESRC POL/ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 569: FISH & WILDLIFE/POL/ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 570: ENVIRONMENTAL LEADERSHP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAP 610: NEW PUBLC GOVRNCE", "size": 5 },
           { "colour": "#36483b", "name": "PAP 610: CITATION ANALYSIS", "size": 5 },
           { "colour": "#36483b", "name": "PAP 694: SOCIAL PRACTICES & ECOSYS", "size": 5 }
